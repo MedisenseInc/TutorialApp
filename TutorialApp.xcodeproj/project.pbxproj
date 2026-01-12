@@ -55,11 +55,19 @@
 			children = (
 				877C8A8D2F14F12B009C607D /* Assets.xcassets */,
 				877C8A8F2F14F12B009C607D /* TutorialApp.swift */,
+				877C8A9C2F150283009C607D /* Views */,
+			);
+			path = TutorialApp;
+			sourceTree = "<group>";
+		};
+		877C8A9C2F150283009C607D /* Views */ = {
+			isa = PBXGroup;
+			children = (
 				877C8A962F14F1CB009C607D /* RootView.swift */,
 				877C8A972F14F1CB009C607D /* HomeView.swift */,
 				877C8A982F14F1CB009C607D /* SettingsView.swift */,
 			);
-			path = TutorialApp;
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
