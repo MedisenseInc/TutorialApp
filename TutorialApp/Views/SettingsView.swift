@@ -14,7 +14,7 @@ struct SettingsView: View {
             List {
                 Section("General") {
                     NavigationLink("Account") {
-                        Text("Account Settings")
+                        AccountSettingsView()
                     }
                     NavigationLink("Notifications") {
                         Text("Notification Settings")
